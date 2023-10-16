@@ -1,3 +1,5 @@
+-- language: SQL
+
 /*
 	I was curios about this employees database i found on github so I decided to implement a statistical data analysis on it to answer my question:
 	What are the factors that affect an employees salary in the company?
