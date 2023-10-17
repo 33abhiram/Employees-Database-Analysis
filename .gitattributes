@@ -1,1 +1,1 @@
-*.sql linquist-detectable=true
+*.sql linguist-language=sql
